@@ -7,7 +7,7 @@ Esta es una plantilla simple de Python que usa Flask para construir un "webhook"
 Lea bien compa... y declara aun mejor
 
 
-! [Error de Facebook] (https://cloud.githubusercontent.com/assets/18402893/21538944/f96fcd1e-cdc7-11e6-83ee-a866190d9080.png)
+![Error de Facebook?](https://cloud.githubusercontent.com/assets/18402893/21538944/f96fcd1e-cdc7-11e6-83ee-a866190d9080.png)
 
 El error n. ° 1 que se informa en los problemas es que Facebook devuelve un mensaje de error (como el anterior) al intentar agregar el extremo heroku a su aplicación de chat de Facebook.
 
